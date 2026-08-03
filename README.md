@@ -50,7 +50,7 @@ Models implemented:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/HarishChaisir/machine-learning-journey
 cd machine-learning-journey
 ```
 
